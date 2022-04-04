@@ -106,6 +106,7 @@
 - [Pedro Moyano](https://github.com/petermoyano)
 - [Yusuf Alsaedi](https://github.com/redmite123)
 - [Lener]
+  [shie]
 - [Sheikh Limon](https://github.com/sheikhlimon)
 - [idunne360](https://github.com/idunne360)
 - [Pietro Bernardelle](https://github.com/PietroBernardelle)
